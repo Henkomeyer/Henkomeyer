@@ -51,9 +51,9 @@ const henko = {
 
 ## Connect
 
+- Portfolio: [henkomeyer.github.io/Portfolio-Website-Host](https://henkomeyer.github.io/Portfolio-Website-Host/)
 - Email: [henkomeyer@gmail.com](mailto:henkomeyer@gmail.com)
 - LinkedIn: [linkedin.com/in/henko-meyer](https://www.linkedin.com/in/henko-meyer)
 - GitHub: [github.com/Henkomeyer](https://github.com/Henkomeyer)
-- Portfolio: [careerday.belgiumcampus.ac.za/sites/s578420](https://careerday.belgiumcampus.ac.za/sites/s578420/)
 
 > Building useful software with a bit of polish, a lot of curiosity, and a bias toward shipping.
