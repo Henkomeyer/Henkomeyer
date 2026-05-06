@@ -36,18 +36,16 @@ const henko = {
 
 ## Toolbox
 
-![React](https://img.shields.io/badge/React-07111F?style=for-the-badge&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-07111F?style=for-the-badge&logo=dotnet&logoColor=8A63D2)
-![C%23](https://img.shields.io/badge/C%23-07111F?style=for-the-badge&logo=csharp&logoColor=9B4F96)
-![SQL Server](https://img.shields.io/badge/SQL_Server-07111F?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![Python](https://img.shields.io/badge/Python-07111F?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-07111F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Figma](https://img.shields.io/badge/Figma-07111F?style=for-the-badge&logo=figma&logoColor=F24E1E)
+`React` `JavaScript` `C#` `.NET Web API` `SQL Server` `Python` `Whisper` `NLP.js` `Figma` `REST APIs` `Debugging` `Testing`
 
 ## GitHub pulse
 
-![Henko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henkomeyer&show_icons=true&theme=github_dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Henkomeyer&layout=compact&theme=github_dark&hide_border=true)
+| Area | Current signal |
+| --- | --- |
+| Main role | AI Engineer @ FutureSoft |
+| Core stack | React, .NET, SQL Server, Python, AI/ML |
+| Strongest repos to browse | Portfolio Website Host, MERN Weather App, Classification System, CNN Safari Prediction Model |
+| What I am improving | Secure APIs, AI-enhanced tools, polished React interfaces, better project documentation |
 
 ## Connect
 
